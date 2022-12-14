@@ -1,0 +1,20 @@
+id: A07002297
+title: Toh_273-The_Twelve_Buddhas-v2
+type: translation
+pechas:
+- ICE0DE7BC
+- I512515F7
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-068-007
+  eft-text-version: 1.2.3 2020
+  title: Toh_273-The_Twelve_Buddhas-v2
+alignment_to_base:
+  ICE0DE7BC/9BB5: D083
+  I512515F7/1852: D083
